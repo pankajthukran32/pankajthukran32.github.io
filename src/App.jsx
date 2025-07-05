@@ -41,9 +41,9 @@ export default function PortfolioWebsite() {
             Fullstack Developer | React.js & Node.js Specialist | 9+ Years of Experience
           </p>
           <div className="flex justify-center flex-wrap gap-4 mt-6">
-            <Button variant="outline"><Mail className="mr-2 h-4 w-4" /> your.email@example.com</Button>
-            <Button variant="outline"><Linkedin className="mr-2 h-4 w-4" /> LinkedIn</Button>
-            <Button variant="outline"><Github className="mr-2 h-4 w-4" /> GitHub</Button>
+            <Button variant="outline"><Mail className="mr-2 h-4 w-4" />Pankajthukran32@gmail.com</Button>
+            <Button variant="outline"><Linkedin className="mr-2 h-4 w-4" />https://www.linkedin.com/in/pankajyadav32/</Button>
+            <Button variant="outline"><Github className="mr-2 h-4 w-4" />https://github.com/pankajthukran32</Button>
           </div>
         </section>
 
